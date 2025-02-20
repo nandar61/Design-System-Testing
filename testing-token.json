@@ -1038,6 +1038,18 @@
         "value": "64px",
         "type": "dimension"
       }
+    },
+    "xs": {
+      "value": "2",
+      "type": "borderRadius"
+    },
+    "s": {
+      "value": "4",
+      "type": "borderRadius"
+    },
+    "m": {
+      "value": "6",
+      "type": "borderRadius"
     }
   },
   "Core Tokens/Default/Core Tokens/Default": {
